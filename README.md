@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PrathameshJagale
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java basics
+- 🌱 I’m currently learning Full Stack Webdevelopment
 
 <!---
 PrathameshJagale/PrathameshJagale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
